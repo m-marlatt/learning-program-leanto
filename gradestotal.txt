@@ -1,0 +1,5 @@
+Grade Statistics
+=======================
+Total Points: 401
+Total Assignments: 5
+Average Score: 80
